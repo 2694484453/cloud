@@ -42,8 +42,8 @@ Here are a couple of example overviews from products with really great docs:
 [grafana.md](jian-kong-gao-jing-ke-guan-ce/grafana.md)
 {% endcontent-ref %}
 
-{% content-ref url="jian-kong-gao-jing-ke-guan-ce/prometheus.md" %}
-[prometheus.md](jian-kong-gao-jing-ke-guan-ce/prometheus.md)
+{% content-ref url="jian-kong-gao-jing-ke-guan-ce/prometheus/" %}
+[prometheus](jian-kong-gao-jing-ke-guan-ce/prometheus/)
 {% endcontent-ref %}
 
 ## Get Started

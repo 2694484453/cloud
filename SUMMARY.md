@@ -16,7 +16,9 @@
 
 ## 监控告警&可观测
 
-* [✨ Prometheus](jian-kong-gao-jing-ke-guan-ce/prometheus.md)
+* [✨ Prometheus](jian-kong-gao-jing-ke-guan-ce/prometheus/README.md)
+  * [二进制包部署](jian-kong-gao-jing-ke-guan-ce/prometheus/er-jin-zhi-bao-bu-shu.md)
+  * [Docker方式部署](jian-kong-gao-jing-ke-guan-ce/prometheus/docker-fang-shi-bu-shu.md)
 * [💡 Grafana](jian-kong-gao-jing-ke-guan-ce/grafana.md)
 * [⛱ Node-Exporter](jian-kong-gao-jing-ke-guan-ce/node-exporter.md)
 * [😀 AlertManager](jian-kong-gao-jing-ke-guan-ce/alertmanager.md)
