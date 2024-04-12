@@ -16,6 +16,7 @@
 
 ## 监控告警&可观测
 
+* [✈️ metrics-server](jian-kong-gao-jing-ke-guan-ce/metrics-server.md)
 * [✨ Prometheus](jian-kong-gao-jing-ke-guan-ce/prometheus/README.md)
   * [二进制包部署](jian-kong-gao-jing-ke-guan-ce/prometheus/er-jin-zhi-bao-bu-shu.md)
   * [Docker部署](jian-kong-gao-jing-ke-guan-ce/prometheus/docker-fang-shi-bu-shu.md)
