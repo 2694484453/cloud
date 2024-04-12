@@ -2,7 +2,7 @@
 description: 使用容器化部署
 ---
 
-# Docker方式部署
+# Docker部署
 
 ## 准备环境
 

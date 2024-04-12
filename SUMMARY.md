@@ -18,7 +18,7 @@
 
 * [✨ Prometheus](jian-kong-gao-jing-ke-guan-ce/prometheus/README.md)
   * [二进制包部署](jian-kong-gao-jing-ke-guan-ce/prometheus/er-jin-zhi-bao-bu-shu.md)
-  * [Docker部署](jian-kong-gao-jing-ke-guan-ce/prometheus/docker-bu-shu.md)
+  * [Docker部署](jian-kong-gao-jing-ke-guan-ce/prometheus/docker-fang-shi-bu-shu.md)
   * [云原生部署](jian-kong-gao-jing-ke-guan-ce/prometheus/k8s-fang-shi-bu-shu.md)
 * [💡 Grafana](jian-kong-gao-jing-ke-guan-ce/grafana.md)
 * [⛱️ Node-Exporter](jian-kong-gao-jing-ke-guan-ce/node-exporter.md)
