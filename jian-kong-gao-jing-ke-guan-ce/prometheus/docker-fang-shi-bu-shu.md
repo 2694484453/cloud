@@ -28,3 +28,11 @@ services:
       - /data/prometheus/conf.d:/opt/bitnami/prometheus/conf/conf.d
 ```
 {% endcode %}
+
+注：
+
+```
+/data/prometheus/prometheus.yml #配置文件
+/data/prometheus/conf.d #服务发现文件，格式为json
+/data/prometheus/data #数据持久化
+```
