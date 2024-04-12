@@ -1,5 +1,5 @@
 ---
-description: k8s开启metrics
+description: k8s安装metrics
 ---
 
 # ✈️ metrics-server

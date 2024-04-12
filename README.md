@@ -38,12 +38,12 @@ Here are a couple of example overviews from products with really great docs:
 
 ## Quick links
 
-{% content-ref url="jian-kong-gao-jing-ke-guan-ce/grafana.md" %}
-[grafana.md](jian-kong-gao-jing-ke-guan-ce/grafana.md)
+{% content-ref url="jian-kong-gao-jing-ke-guan-ce-bu-shu/grafana/" %}
+[grafana](jian-kong-gao-jing-ke-guan-ce-bu-shu/grafana/)
 {% endcontent-ref %}
 
-{% content-ref url="jian-kong-gao-jing-ke-guan-ce/prometheus/" %}
-[prometheus](jian-kong-gao-jing-ke-guan-ce/prometheus/)
+{% content-ref url="jian-kong-gao-jing-ke-guan-ce-bu-shu/prometheus/" %}
+[prometheus](jian-kong-gao-jing-ke-guan-ce-bu-shu/prometheus/)
 {% endcontent-ref %}
 
 ## Get Started
