@@ -93,3 +93,5 @@ nohup kubectl proxy --port=8002 --address='0.0.0.0' --accept-hosts='^.*' &
 // 替换url，将127.0.0.1:xxx部分替换为ip:8002,其余不变
 
 ```
+
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
